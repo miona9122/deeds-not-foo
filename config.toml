@@ -1,0 +1,9 @@
+baseURL = 'https://deedsnotfoo.netlify.app/'
+languageCode = 'ja'
+title = 'Deeds Not Foo'
+description = 'variety is the spice of life'
+theme = 'DoIt'
+[params]
+  version = '0.2.X'
+[author]
+  name = 'miona9122'
